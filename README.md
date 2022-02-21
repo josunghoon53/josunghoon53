@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=6699FF&height=150&section=header&text=SUNGHOONJO&fontSize=60&)
 
 
-### 🛠 Tech Stack 🛠
+### 🛠 SKILL 🛠
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
