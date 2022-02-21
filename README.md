@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=6699FF&height=110&section=header&text=SUNGHOONJO&fontSize=40&)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SUNGHOON%20JO&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer)
 
 ### 🛠 SKILL 🛠
 
