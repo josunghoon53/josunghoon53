@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=6699FF&height=150&section=header&text=SUNGHOONJO&fontSize=60&)
+![header](https://capsule-render.vercel.app/api?type=soft&color=6699FF&height=110&section=header&text=SUNGHOONJO&fontSize=40&)
 
 
 ### 🛠 SKILL 🛠
