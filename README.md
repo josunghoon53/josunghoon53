@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SUNGHOON%20JO&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer)
+# 조성훈 · Sunghoon Jo
 
-### 🛠 SKILL 🛠
+Developer, Seoul
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/sass-7952B3?style=flat-square&logo=sass&logoColor=white">
+프론트엔드에서 시작해 서버, LLM 연동까지 다루고 있어요. 영역보다 문제를 기준으로 일하고, 쓰는 사람의 불편을 줄이는 개발자를 지향해요.
 
-contact : josung053@gmail.com
+### Projects
+
+- [**tanstack-start-kit**](https://github.com/josunghoon53/tanstack-start-kit)
+  TanStack Start 어드민 템플릿. 다국어, 다크모드, 리스트 패턴, Claude/Codex 연동 포함
+- [**llm-runner**](https://github.com/josunghoon53/llm-runner)
+  Claude·Codex 구독 세션과 API 키를 같은 코드로 쓰게 해 주는 npm 패키지
+
+### Contact
+
+[josung053@gmail.com](mailto:josung053@gmail.com)
