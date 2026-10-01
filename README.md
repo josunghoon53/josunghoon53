@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=120&section=header&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=38" alt="Sunghoon Jo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,30&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Developer%20%C2%B7%20Seoul&descSize=20&descAlignY=60&animation=fadeIn" alt="Sunghoon Jo" />
 
-**조성훈** · Developer, Seoul
+### 프론트엔드에서 시작해 서버, LLM 연동까지 다루고 있어요.
 
-프론트엔드에서 시작해 서버, LLM 연동까지 다루고 있어요.<br/>
-영역보다 문제를 기준으로 일하고, 쓰는 사람의 불편을 줄이는 개발자를 지향해요.
+영역보다 문제를 기준으로 일하고,<br/>
+쓰는 사람의 불편을 줄이는 개발자를 지향해요.
 
-<a href="mailto:josung053@gmail.com"><img src="https://img.shields.io/badge/Email-josung053@gmail.com-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/josunghoon53?tab=repositories"><img src="https://img.shields.io/badge/Repositories-334155?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+<br/>
+
+<a href="mailto:josung053@gmail.com"><img src="https://img.shields.io/badge/Email-josung053@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/josunghoon53?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -42,5 +44,9 @@
 ## Tech
 
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,vite,vitest,git" alt="TypeScript, React, Node.js, Tailwind CSS, Vite, Vitest, Git" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,5,30&section=footer" alt="" />
 
 </div>
