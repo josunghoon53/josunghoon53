@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:6366f1,100:06b6d4&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Developer%20%C2%B7%20Seoul&descSize=18&descAlignY=62&animation=fadeIn" alt="Sunghoon Jo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:6366f1,100:06b6d4&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Developer%20%C2%B7%20Seoul&descSize=18&descAlignY=56&animation=fadeIn" alt="Sunghoon Jo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=640&height=40&lines=%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%ED%95%B4+%EC%84%9C%EB%B2%84%EA%B9%8C%EC%A7%80;%EB%B3%91%EB%AA%A9%EC%9D%B4+%EC%9E%88%EB%8A%94+%EA%B3%B3%EC%9D%B4%EB%A9%B4+%EC%98%81%EC%97%AD%EC%9D%84+%EA%B0%80%EB%A6%AC%EC%A7%80+%EC%95%8A%EC%95%84%EC%9A%94;AI+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80+%ED%95%A8%EA%BB%98+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94" alt="화면에서 시작해 서버까지 · 병목이 있는 곳이면 영역을 가리지 않아요 · AI 에이전트와 함께 만들고 있어요" />
 
