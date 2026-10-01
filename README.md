@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,30&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Developer%20%C2%B7%20Seoul&descSize=20&descAlignY=60&animation=fadeIn" alt="Sunghoon Jo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:06b6d4&text=Sunghoon%20Jo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Developer%20%C2%B7%20Seoul&descSize=20&descAlignY=60&animation=fadeIn" alt="Sunghoon Jo" />
 
 ### 프론트엔드에서 시작해 서버, LLM 연동까지 다루고 있어요.
 
@@ -47,6 +47,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,5,30&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:06b6d4&section=footer" alt="" />
 
 </div>
