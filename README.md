@@ -16,7 +16,7 @@
 
 ## Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/josunghoon53/tanstack-start-kit"><b>tanstack-start-kit</b></a><br/>
