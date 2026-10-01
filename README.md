@@ -14,9 +14,11 @@
 
 <br/>
 
+<div align="center">
+
 ## Projects
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/josunghoon53/tanstack-start-kit"><b>tanstack-start-kit</b></a><br/>
@@ -35,6 +37,10 @@
   </tr>
 </table>
 
+<br/>
+
 ## Tech
 
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,vite,vitest,git" alt="TypeScript, React, Node.js, Tailwind CSS, Vite, Vitest, Git" />
+
+</div>
