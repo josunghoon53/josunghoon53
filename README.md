@@ -27,14 +27,14 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/josunghoon53/tanstack-start-kit"><b>tanstack-start-kit</b></a><br/>
-      <sub>TanStack Start 어드민 템플릿.<br/>다국어, 다크모드, 리스트 패턴, Claude/Codex 연동 포함.<br/>템플릿으로 바로 시작할 수 있어요.</sub><br/><br/>
+      <sub>TanStack Start 어드민 템플릿<br/>다국어, 다크모드, 리스트 패턴<br/>Claude/Codex 연동 포함</sub><br/><br/>
       <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" alt="TanStack Start" />
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
       <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind v4" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/josunghoon53/llm-runner"><b>llm-runner</b></a><br/>
-      <sub>Claude·Codex 구독 세션과 API 키를<br/>같은 코드로 쓰게 해 주는 npm 패키지.<br/>구독 사용량 조회와 Codex 이미지 생성도 지원해요.</sub><br/><br/>
+      <sub>Claude·Codex 구독 세션과 API 키를<br/>같은 코드로 쓰게 해 주는 npm 패키지<br/>사용량 조회, Codex 이미지 생성 지원</sub><br/><br/>
       <a href="https://www.npmjs.com/package/llm-runner"><img src="https://img.shields.io/npm/v/llm-runner?style=flat-square&color=cb3837&logo=npm&logoColor=white" alt="npm version" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
